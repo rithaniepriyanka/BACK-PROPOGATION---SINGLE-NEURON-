@@ -34,8 +34,8 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 ```
 /*
 Program to implement random classification.
-Developed by   : Y Chethan
-Register Number :  212220230008
+Developed by   : J . RITHANIEPRIYANKA
+Register Number :  212220230039
 */
 import numpy as np
 i=1.5    
